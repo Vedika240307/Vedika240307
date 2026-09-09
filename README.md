@@ -5,7 +5,7 @@
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vedika240307&theme=default)](https://github.com/Vedika240307)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vedika240307)](https://github.com/Vedika240307)
 
 ### 🛠️ Tech Stack
 
