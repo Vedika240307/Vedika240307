@@ -1,11 +1,9 @@
 ### 📊 My Stats
 
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Vedika_Barde07)](https://leetcode.com/u/Vedika_Barde07/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedika240307&show_icons=true&theme=default)](https://github.com/Vedika240307)
 
-### 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vedika240307)](https://github.com/Vedika240307)
+![Followers](https://img.shields.io/github/followers/Vedika240307?style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Vedika240307&style=for-the-badge&color=blueviolet)
 
 ### 🛠️ Tech Stack
 
