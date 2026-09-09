@@ -1,6 +1,7 @@
 ### 📊 My Stats
 
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Vedika_Barde07)](https://leetcode.com/u/Vedika_Barde07/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bardevedika23)
 
 ![Followers](https://img.shields.io/github/followers/Vedika240307?style=for-the-badge&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedika240307&style=for-the-badge&color=blueviolet)
